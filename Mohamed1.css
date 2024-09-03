@@ -302,7 +302,7 @@ h6 {
     font-size: larger;
     background-color: rgb(150, 6, 6);
     color: white;
-    transition: 1s;
+    transition: 0.5s;
 }
 .button2:hover {
     color: white;
@@ -324,7 +324,7 @@ h6 {
         border-radius: 5px;
         top: 440px;
         position: absolute;
-        right: 99px;
+        right: 110px;
         box-shadow: blue 5px 5px 5px 5px;
     }
     
@@ -409,7 +409,7 @@ h6 {
         position: absolute;
         top: 350px;
         font-size: 30px;
-        width: 300px;
+        width: 350px;
         text-align: center;
     }
     
@@ -450,6 +450,7 @@ h6 {
         margin-left: 25px;
         position: absolute;
         top: 800px;
+        left: 30px;
     }
 }
 @media (min-width:701px) and (max-width:900px) {
