@@ -320,11 +320,11 @@ h6 {
     }
     
     #photo {
-        width: 150px;
+        width: 200px;
         border-radius: 5px;
-        top: 450px;
+        top: 440px;
         position: absolute;
-        right: 100px;
+        right: 99px;
         box-shadow: blue 5px 5px 5px 5px;
     }
     
@@ -379,11 +379,8 @@ h6 {
     }
     
     h1 {
-        margin-top: 10px;
-        padding: 0%;
-        margin: 0 auto;
-        padding: 0px;
-        border: 0ch;
+        margin: auto 5px;
+        margin-top: 6px;
     }
     
     div ul li a {
@@ -399,6 +396,8 @@ h6 {
     }
     
     #my {
+        margin: auto 5px;
+        margin-top: 6px;
         padding: 0%;
         font-size: 30px;
         position: absolute;
@@ -408,13 +407,15 @@ h6 {
     
     #log {
         position: absolute;
-        top: 380px;
+        top: 350px;
         font-size: 30px;
         width: 300px;
         text-align: center;
     }
     
     .in {
+        margin: auto 5px;
+        margin-top: 6px;
         font-size: 25px;
         right: 1px;
         top: 0em
@@ -422,11 +423,11 @@ h6 {
     
     h3 {
         position: absolute;
-        top: 330px;
+        top: 290px;
     }
     
     h4 {
-        top: 200px;
+        top: 170px;
     }
     
     h5 {
@@ -434,7 +435,7 @@ h6 {
         border: 0;
         justify-content: center;
         position: absolute;
-        top: 250px;
+        top: 200px;
         font-size: xx-large;
     }
     
@@ -448,7 +449,7 @@ h6 {
         letter-spacing: 20px;
         margin-left: 25px;
         position: absolute;
-        bottom: 20px;
+        top: 800px;
     }
 }
 @media (min-width:701px) and (max-width:900px) {
