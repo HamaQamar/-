@@ -455,7 +455,43 @@ h6 {
     div {
         position: absolute;
         top: 70px;
+    }
+    
+    #user0 {
+        position: absolute;
+        left: 230px;
+    }
+    
+    #user1 {
+        position: absolute;
+        left: 230px;
+    }
+    
+    #user2 {
+        position: absolute;
+        left: 230px;
+    }
+    
+    #user3 {
+        position: absolute;
+        left: 230px;
+    }
+    
+    .button1 {
+        position: absolute;
+        bottom: 500px;
+        left: 200px;
+    }
+    
+    .button2 {
+        position: absolute;
+        bottom: 500px;
         right: 200px;
+    }
+    
+    h6,
+    .h {
+        display: none;
     }
     
     #photo {
