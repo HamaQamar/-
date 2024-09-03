@@ -1,4 +1,6 @@
-console.log('Mohamed Qamar')
-let mohamed = ('HAMA QAMAR')
+document.getElementById(button1).addEventListener("click", function() {
+    alert("Successful");
+})
 
-console.log(mohamed) 
+
+alert("gfvcfdfdfdfdf")
